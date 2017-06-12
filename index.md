@@ -81,4 +81,3 @@ When you sign up for a {{site.data.keyword.Bluemix_notm}} billable plan or reque
 {:caption="Table 1. {{site.data.keyword.Bluemix_notm}} billable accounts and charges" caption-side="top"}
 
 For more information about the billable accounts, see [Signing up for a billable account](/docs/pricing/billable.html#billable).
-

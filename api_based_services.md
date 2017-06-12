@@ -5,7 +5,7 @@
 copyright:
 
   years: 2017
-lastupdated: "2017-05-25"
+lastupdated: "2017-04-12"
 
 ---
 
@@ -16,12 +16,7 @@ lastupdated: "2017-05-25"
 
 # API-based Bluemix services
 {: #api_based_bluemix_services}
-
-This list contains the services that you can set up to run with your application code.
-{:shortdesc}
-
-Not all plans for these services are available for use with linked {{site.data.keyword.Bluemix_notm}} and SoftLayer accounts. Only the plans enabled for Pay-As-You-Go accounts are available to use with linked accounts. However, if you have a separate {{site.data.keyword.Bluemix_notm}} account that's billed separately, you can use any plan for any of these services.
-
+Not all {{site.data.keyword.Bluemix_notm}} services can be used with SoftLayer. The following services can be set up to run with your application code:
 * {{site.data.keyword.alchemyapishort}}
 * {{site.data.keyword.alertnotificationshort}}
 * {{site.data.keyword.sparks}}
@@ -62,4 +57,4 @@ Not all plans for these services are available for use with linked {{site.data.k
 * {{site.data.keyword.workflow}}
 * {{site.data.keyword.workloadscheduler}}
 
-
+**Note:** Not all plans for these services are available. Only the plans enabled for Pay-As-You-Go accounts are available to use with linked accounts. However, you can use any plan for any of these services if you have a separate {{site.data.keyword.Bluemix_notm}} account that is billed separately.
