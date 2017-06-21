@@ -14,7 +14,7 @@ lastupdated: "2017-04-13"
 {:screen: .screen}
 {:new_window: target="_blank"}
 
-# Affichage de votre utilisation 
+# Affichage de votre utilisation
 {: #viewingusage}
 
 En tant que propriétaire de compte ou responsable de la facturation pour une organisation, vous pouvez vous servir de la page Tableau de bord de l'utilisation afin d'afficher les frais en temps réel pour les contextes d'exécution, les conteneurs, les services et le support que vous utilisez par mois dans vos organisations. Vous pouvez afficher le nombre de Go/heure utilisés pour le contexte d'exécution, ainsi que la consommation des services dans toutes les

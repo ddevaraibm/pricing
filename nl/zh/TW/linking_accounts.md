@@ -5,7 +5,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-04-12"
+lastupdated: "2017-05-31"
 
 ---
 
@@ -52,6 +52,54 @@ lastupdated: "2017-04-12"
 
 例如，如果您在 2017 年 4 月 16 日鏈結帳戶，則會收到 4 月用量的 Bluemix 發票。視鏈結帳戶的時間而定，您可能會收到 SoftLayer 用量的個別帳單。SoftLayer 及 {{site.data.keyword.Bluemix_notm}} 的五月用量將會透過 {{site.data.keyword.Bluemix_notm}} 帳戶向您收費。
 
-![Bluemix 帳戶與 SoftLayer 帳戶的鏈結摘要](/docs/pricing/BluemixSoftLayerBill.svg)
+![Bluemix 帳戶與 SoftLayer 帳戶的鏈結摘要](BluemixSoftLayerBill.svg)
 
 鏈結帳單之後，{{site.data.keyword.Bluemix_notm}} 發票即會針對您所使用的每一項資源列出不同費用：
+
+## API 型 Bluemix 服務
+{: #api_based_bluemix_services}
+
+下列清單包含可設定為與您的應用程式碼搭配執行的服務。
+{:shortdesc}
+
+並非這些服務的所有方案都可以與所鏈結的 {{site.data.keyword.Bluemix_notm}} 及 SoftLayer 帳戶搭配使用。只有針對「隨收隨付制」帳戶啟用的方案，才能用於已鏈結的帳戶。不過，如果您有分開計費的個別 {{site.data.keyword.Bluemix_notm}} 帳戶，則可將任何方案用於上述任何服務。
+
+* {{site.data.keyword.alchemyapishort}}
+* {{site.data.keyword.alertnotificationshort}}
+* {{site.data.keyword.sparks}}
+* {{site.data.keyword.appseccloudshort}}
+* {{site.data.keyword.blockchain}}
+* {{site.data.keyword.cloudant}}
+* {{site.data.keyword.conceptinsightsshort}}
+* {{site.data.keyword.iotmapinsights_short}}
+* {{site.data.keyword.dashdbshort}}
+* {{site.data.keyword.dialogshort}}
+* {{site.data.keyword.documentconversionshort}}
+* {{site.data.keyword.twittershort}}
+* {{site.data.keyword.weather_short}}
+* {{site.data.keyword.iotdriverinsights_short}}
+* {{site.data.keyword.geospatialshort_Geospatial}}
+* {{site.data.keyword.graphshort}}
+* {{site.data.keyword.iotelectronics}}
+* {{site.data.keyword.languagetranslationshort}}
+* {{site.data.keyword.messagehub}}
+* {{site.data.keyword.mqa}}
+* {{site.data.keyword.mobileappbuilder_short}}
+* {{site.data.keyword.mql}}
+* {{site.data.keyword.nlclassifiershort}}
+* {{site.data.keyword.objectstorageshort}}
+* {{site.data.keyword.personalityinsightsshort}}
+* {{site.data.keyword.presenceinsightsshort}}
+* {{site.data.keyword.relationshipextractionshort}}
+* {{site.data.keyword.retrieveandrankshort}}
+* {{site.data.keyword.servicediscoveryshort}}
+* {{site.data.keyword.speechtotextshort}}
+* {{site.data.keyword.sqldb}}
+* {{site.data.keyword.streaminganalyticsshort}}
+* {{site.data.keyword.texttospeechshort}}
+* {{site.data.keyword.toneanalyzershort}}
+* {{site.data.keyword.tradeoffanalyticsshort}}
+* {{site.data.keyword.visualinsightsshort}}
+* {{site.data.keyword.visualrecognitionshort}}
+* {{site.data.keyword.workflow}}
+* {{site.data.keyword.workloadscheduler}}

@@ -5,7 +5,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-04-12"
+lastupdated: "2017-05-31"
 
 ---
 
@@ -52,6 +52,54 @@ lastupdated: "2017-04-12"
 
 例えば、2017年 4 月 16 日にアカウントをリンクした場合、4 月の使用量については Bluemix の請求書を受け取ります。アカウントをリンクしたタイミングによっては、SoftLayer 使用量に対して別個の請求書を受け取ることがあります。SoftLayer と {{site.data.keyword.Bluemix_notm}} の両方の 5 月の使用量は、{{site.data.keyword.Bluemix_notm}} アカウントを介して請求されます。
 
-![Bluemix と SoftLayer のアカウントのリンクのサマリー](/docs/pricing/BluemixSoftLayerBill.svg)
+![Bluemix と SoftLayer のアカウントのリンクのサマリー](BluemixSoftLayerBill.svg)
 
 請求書がリンクされた後には、{{site.data.keyword.Bluemix_notm}} 請求書には、使用した各リソースに対する別個の料金がリストされます。
+
+## API ベースの Bluemix サービス
+{: #api_based_bluemix_services}
+
+以下のリストに含まれているサービスは、アプリケーション・コードを使用して実行するようにセットアップできます。
+{:shortdesc}
+
+これらのサービスのすべてのプランが、{{site.data.keyword.Bluemix_notm}} と SoftLayer のリンクされたアカウントで使用できるわけではありません。リンクされたアカウントで使用できるのは、従量課金 (PAYG) アカウント用に有効になっているプランのみです。ただし、個別に請求される個別の {{site.data.keyword.Bluemix_notm}} アカウントがある場合には、これらのすべてのサービスのすべてのプランを使用できます。
+
+* {{site.data.keyword.alchemyapishort}}
+* {{site.data.keyword.alertnotificationshort}}
+* {{site.data.keyword.sparks}}
+* {{site.data.keyword.appseccloudshort}}
+* {{site.data.keyword.blockchain}}
+* {{site.data.keyword.cloudant}}
+* {{site.data.keyword.conceptinsightsshort}}
+* {{site.data.keyword.iotmapinsights_short}}
+* {{site.data.keyword.dashdbshort}}
+* {{site.data.keyword.dialogshort}}
+* {{site.data.keyword.documentconversionshort}}
+* {{site.data.keyword.twittershort}}
+* {{site.data.keyword.weather_short}}
+* {{site.data.keyword.iotdriverinsights_short}}
+* {{site.data.keyword.geospatialshort_Geospatial}}
+* {{site.data.keyword.graphshort}}
+* {{site.data.keyword.iotelectronics}}
+* {{site.data.keyword.languagetranslationshort}}
+* {{site.data.keyword.messagehub}}
+* {{site.data.keyword.mqa}}
+* {{site.data.keyword.mobileappbuilder_short}}
+* {{site.data.keyword.mql}}
+* {{site.data.keyword.nlclassifiershort}}
+* {{site.data.keyword.objectstorageshort}}
+* {{site.data.keyword.personalityinsightsshort}}
+* {{site.data.keyword.presenceinsightsshort}}
+* {{site.data.keyword.relationshipextractionshort}}
+* {{site.data.keyword.retrieveandrankshort}}
+* {{site.data.keyword.servicediscoveryshort}}
+* {{site.data.keyword.speechtotextshort}}
+* {{site.data.keyword.sqldb}}
+* {{site.data.keyword.streaminganalyticsshort}}
+* {{site.data.keyword.texttospeechshort}}
+* {{site.data.keyword.toneanalyzershort}}
+* {{site.data.keyword.tradeoffanalyticsshort}}
+* {{site.data.keyword.visualinsightsshort}}
+* {{site.data.keyword.visualrecognitionshort}}
+* {{site.data.keyword.workflow}}
+* {{site.data.keyword.workloadscheduler}}

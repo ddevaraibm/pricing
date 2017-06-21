@@ -14,7 +14,7 @@ lastupdated: "2017-04-12"
 {:screen: .screen}
 {:new_window: target="_blank"}
 
-#Changement de plan 
+#Changement de plan
 {: #changing}
 
 Vous pouvez changer de plan de service dans {{site.data.keyword.Bluemix_notm}} dans le tableau de bord du service, si le changement de plan est possible pour ce service.
@@ -33,7 +33,7 @@ exécuter.
 |Presence Insights 	|Si vous avez choisi un plan léger et que vous dépassez les franchises, un message 403 s'affiche ou est consigné afin d'indiquer que vous ne disposez plus des autorisations, et votre instance de service est désactivée. De plus, les appels API REST POST sont rejetés avec une réponse 403.<br/><br/>Si votre service est désactivé car vous avez dépassé les franchises, vous pouvez procéder à la mise à niveau du plan léger vers un plan payant. Votre service est réactivé dans un délai de 2 heures.<br/><br/>i vous disposez d'un plan payant, vous pouvez passer à un plan inférieur, c'est-à-dire au plan léger, tant que votre utilisation ne dépasse pas la franchise du plan léger pour les événements et l'espace de stockage total.<br/><br/>Lorsque vous mettez à niveau ou réduisez votre plan, vous n'avez pas à reconstituer ou à redémarrer applications.|
 {:caption="Tableau 9. Etapes suivantes pour modifier votre plan" caption-side="top"}
 
-##Changement de plan via l'interface de ligne de commande 
+##Changement de plan via l'interface de ligne de commande
 
 Si vous le souhaitez, vous pouvez changer de plan de service via l'interface de ligne de commande.
 Pour mettre à jour le plan du service, entrez la commande suivante :

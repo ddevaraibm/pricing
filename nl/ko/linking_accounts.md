@@ -5,7 +5,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-04-12"
+lastupdated: "2017-05-31"
 
 ---
 
@@ -17,7 +17,7 @@ lastupdated: "2017-04-12"
 # Bluemix 및 SoftLayer 계정 연결
 {: #unifyingaccounts}
 
-{{site.data.keyword.Bluemix_notm}} 및 SoftLayer 계정을 연결하여 결합된 리소스를 활용할 수 있습니다. {{site.data.keyword.Bluemix_notm}}와 Softlayer 계정을 연결한 경우 단일 {{site.data.keyword.Bluemix_notm}} 송장을 받게 됩니다. 기존 {{site.data.keyword.Bluemix_notm}} 계정을 보유하는 경우, {{site.data.keyword.Bluemix_notm}}를 통한 SoftLayer 리소스의 청구는 계정이 연결된 이후 시작되는 새 청구 주기에 적용됩니다. 
+{{site.data.keyword.Bluemix_notm}} 및 SoftLayer 계정을 연결하여 결합된 리소스를 활용할 수 있습니다. {{site.data.keyword.Bluemix_notm}}와 Softlayer 계정을 연결한 경우 단일 {{site.data.keyword.Bluemix_notm}} 송장을 받게 됩니다. 기존 {{site.data.keyword.Bluemix_notm}} 계정을 보유하고 있는 경우, {{site.data.keyword.Bluemix_notm}}를 통한 SoftLayer 리소스의 청구는 계정이 연결된 이후 시작되는 새 청구 주기에 적용됩니다. 
 
 **중요사항:** {{site.data.keyword.Bluemix_notm}}의 모든 연결된 계정은 종량과금제 계정이어야 합니다. 종량과금제 계정을 새로 작성하거나, 기존 종량과금제 계정을 연결하거나, 기존 평가판 계정을 연결할 수 있습니다(이는 다시 종량과금제 계정으로 업그레이드됨). 구독 {{site.data.keyword.Bluemix_notm}} 계정을 연결할 수는 없습니다. 
 
@@ -50,8 +50,56 @@ lastupdated: "2017-04-12"
 
 계정이 연결되면, {{site.data.keyword.Bluemix_notm}} 사용량이 계속해서 당월 주기에 대해 측정되며 사용자는 {{site.data.keyword.Bluemix_notm}} 송장에서 해당 사용량에 대해 청구됩니다. 다음 달 초에 시작하여, {{site.data.keyword.Bluemix_notm}} 및 SoftLayer 비용은 {{site.data.keyword.Bluemix_notm}} 송장에서 통합됩니다. 
 
-예를 들어, 2017년 4월 16일에 계정을 연결한 경우에는 4월 사용량에 대해 Bluemix 송장을 받습니다. 연결된 계정에 따라 SoftLayer 사용량에 대해 별도로 청구될 수 있습니다. SoftLayer 및 {{site.data.keyword.Bluemix_notm}}의 사용량이 {{site.data.keyword.Bluemix_notm}} 계정을 통해 청구될 수 있습니다. 
+예를 들어, 2017년 4월 16일에 계정을 연결한 경우에는 4월 사용량에 대해 Bluemix 송장을 받습니다. 연결된 계정에 따라 SoftLayer 사용량에 대해 별도로 청구될 수 있습니다. SoftLayer 및 {{site.data.keyword.Bluemix_notm}}의 5월 사용량은 둘 다 {{site.data.keyword.Bluemix_notm}} 계정을 통해 청구됩니다. 
 
-![Bluemix 및 SoftLayer 계정 연결 요약](/docs/pricing/BluemixSoftLayerBill.svg)
+![Bluemix 및 SoftLayer 계정 연결 요약](BluemixSoftLayerBill.svg)
 
 청구서가 연결된 후에 {{site.data.keyword.Bluemix_notm}} 송장은 사용한 각 리소스마다 서로 다른 비용을 나열합니다. 
+
+## API 기반 Bluemix 서비스
+{: #api_based_bluemix_services}
+
+다음 목록에는 애플리케이션 코드와 함께 실행되도록 설정할 수 있는 서비스가 포함되어 있습니다.
+{:shortdesc}
+
+이러한 서비스의 모든 플랜을 {{site.data.keyword.Bluemix_notm}} 및 SoftLayer 연결 계정에 사용할 수 있는 것은 아닙니다. 종량과금제 계정에 사용되는 플랜만 연결된 계정에서 사용될 수 있습니다. 그러나 별도로 청구되는 별도의 {{site.data.keyword.Bluemix_notm}} 계정이 있으면 이러한 서비스에 대해 어떤 플랜이라도 사용할 수 있습니다. 
+
+* {{site.data.keyword.alchemyapishort}}
+* {{site.data.keyword.alertnotificationshort}}
+* {{site.data.keyword.sparks}}
+* {{site.data.keyword.appseccloudshort}}
+* {{site.data.keyword.blockchain}}
+* {{site.data.keyword.cloudant}}
+* {{site.data.keyword.conceptinsightsshort}}
+* {{site.data.keyword.iotmapinsights_short}}
+* {{site.data.keyword.dashdbshort}}
+* {{site.data.keyword.dialogshort}}
+* {{site.data.keyword.documentconversionshort}}
+* {{site.data.keyword.twittershort}}
+* {{site.data.keyword.weather_short}}
+* {{site.data.keyword.iotdriverinsights_short}}
+* {{site.data.keyword.geospatialshort_Geospatial}}
+* {{site.data.keyword.graphshort}}
+* {{site.data.keyword.iotelectronics}}
+* {{site.data.keyword.languagetranslationshort}}
+* {{site.data.keyword.messagehub}}
+* {{site.data.keyword.mqa}}
+* {{site.data.keyword.mobileappbuilder_short}}
+* {{site.data.keyword.mql}}
+* {{site.data.keyword.nlclassifiershort}}
+* {{site.data.keyword.objectstorageshort}}
+* {{site.data.keyword.personalityinsightsshort}}
+* {{site.data.keyword.presenceinsightsshort}}
+* {{site.data.keyword.relationshipextractionshort}}
+* {{site.data.keyword.retrieveandrankshort}}
+* {{site.data.keyword.servicediscoveryshort}}
+* {{site.data.keyword.speechtotextshort}}
+* {{site.data.keyword.sqldb}}
+* {{site.data.keyword.streaminganalyticsshort}}
+* {{site.data.keyword.texttospeechshort}}
+* {{site.data.keyword.toneanalyzershort}}
+* {{site.data.keyword.tradeoffanalyticsshort}}
+* {{site.data.keyword.visualinsightsshort}}
+* {{site.data.keyword.visualrecognitionshort}}
+* {{site.data.keyword.workflow}}
+* {{site.data.keyword.workloadscheduler}}

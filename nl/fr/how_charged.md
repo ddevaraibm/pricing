@@ -17,7 +17,7 @@ lastupdated: "2017-04-12"
 # Paiement
 {: #charges}
 
-Le prix varie selon les ressources utilisées par un service, un contexte d'exécution, un conteneur ou une option de support spécifique. Les ressources peuvent correspondre au nombre d'appels d'API, au nombre d'instances, à la mémoire, à l'espace de stockage, etc. {{site.data.keyword.Bluemix_notm}} met également à disposition des estimateurs de coût détaillé ainsi qu'une calculatrice de prix au centime près pour vous aider à planifier vos frais. Vous pouvez vérifier le coût réel une fois que vous avez construit vos applications dans la page Tableau de bord de l'utilisation. 
+Le prix varie selon les ressources utilisées par un service, un contexte d'exécution, un conteneur ou une option de support spécifique. Les ressources peuvent correspondre au nombre d'appels d'API, au nombre d'instances, à la mémoire, à l'espace de stockage, etc. {{site.data.keyword.Bluemix_notm}} met également à disposition des estimateurs de coût détaillé ainsi qu'une calculatrice de prix au centime près pour vous aider à planifier vos frais. Vous pouvez vérifier le coût réel une fois que vous avez construit vos applications dans la page Tableau de bord de l'utilisation.
 
 Avec un compte de facturation {{site.data.keyword.Bluemix_notm}}, vous êtes facturé pour les ressources de traitement, les conteneurs et les services que
 vous utilisez dans votre organisation. Vous pouvez être invité par d'autres utilisateurs

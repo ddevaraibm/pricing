@@ -81,7 +81,7 @@ Cuando se alcancen los límites de la cuota, se detendrá la aplicación o se in
 
 Puede suministrar 1 instancia por plan de Lite. 
 
-**Nota**: Estas limitaciones se aplican únicamente a la cuenta Estándar.  Puede actualizar a una cuenta de pago según uso o de facturación por suscripción en cualquier momento. Pague sólo lo que utilice más allá de las concesiones gratuitas. Para obtener más información sobre las cuentas Pago según uso y Suscripción, consulte [Tipos de cuenta](/docs/pricing/index.html#pay-accounts). 
+**Nota**: Estas limitaciones se aplican únicamente a la cuenta Estándar. Puede actualizar a una cuenta de pago según uso o de facturación por suscripción en cualquier momento. Pague sólo lo que utilice más allá de las concesiones gratuitas. Para obtener más información sobre las cuentas Pago según uso y Suscripción, consulte [Tipos de cuenta](/docs/pricing/index.html#pay-accounts).
 
 ## Actividad de desarrollo
 {: #devactivity}

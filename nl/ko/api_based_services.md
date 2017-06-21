@@ -57,4 +57,4 @@ lastupdated: "2017-04-12"
 * {{site.data.keyword.workflow}}
 * {{site.data.keyword.workloadscheduler}}
 
-**참고:** 이 서비스의 일부 플랜은 사용 가능하지 않습니다. 종량과금제 계정에 사용되는 플랜만 연결된 계정에서 사용될 수 있습니다. 그러나 별도로 청구되는 별도의 {{site.data.keyword.Bluemix_notm}} 계정이 있으면 이러한 서비스에 대해 임의의 플랜을 사용할 수 있습니다. 
+**참고:** 이 서비스의 일부 플랜은 사용 가능하지 않습니다. 종량과금제 계정에 사용되는 플랜만 연결된 계정에서 사용될 수 있습니다. 그러나 별도로 청구되는 별도의 {{site.data.keyword.Bluemix_notm}} 계정이 있으면 이러한 서비스에 대해 어떤 플랜이라도 사용할 수 있습니다. 

@@ -48,7 +48,7 @@ Sicher interessiert es Sie, welche Unterschiede zwischen dem Standardkonto und d
 **Hinweis**: Wenn Ihr Testkonto nicht konvertiert werden kann, erhalten Sie eine Nachricht mit einer Erläuterung zur Ursache. Möglicherweise enthält das bestehende Testkonto mehr als eine Organisation oder Apps, die nicht übertragen werden können. Sie können die entsprechende Maßnahme ausführen und dann die Konvertierung des Kontos erneut versuchen.
 
 Wenn Sie bei einem Standardkonto angemeldet sind, können Sie Teammitglieder dazu einladen, in Ihrer Organisation und Ihren Bereichen mitzuarbeiten, Nutzungsdaten anzuzeigen, Bereiche zu erstellen, das Kontoprofil zu aktualisieren und die Organisation zu verwalten. Weitere Informationen
-finden Sie in [Konto verwalten](/docs/admin/adminpublic.html#account). 
+finden Sie in [Konto verwalten](/docs/admin/adminpublic.html#account).
 
 ## Lite-Pläne
 {: #liteplans}

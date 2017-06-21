@@ -88,7 +88,7 @@ Um für Ihr Testkonto ein Upgrade auf ein nutzungsabhängiges {{site.data.keywor
 
 Nach dem Upgrade auf ein nutzungsabhängiges Konto stehen Ihnen zusätzliche kostenlose Laufzeit- und Serviceleistungen zur Verfügung. Wenn Sie in Ihrer Nutzung über die gebührenfreien Leistungen hinausgehen, erhalten Sie eine {{site.data.keyword.Bluemix_notm}}-Rechnung für den Monat. Die Rechnung wird in USD ausgestellt und enthält die Details zu Ihren Ressourcengebühren.
 
-In vielen Ländern und Regionen können Sie sich für ein nutzungsabhängiges Konto über die Konsole anmelden. 
+In vielen Ländern und Regionen können Sie sich für ein nutzungsabhängiges Konto über die Konsole anmelden.
 
   1. Klicken Sie auf das Symbol **Kostenlose Testversion** und anschließend auf **Bestätigen Sie Ihr kostenloses Konto** und wählen Sie **Option 1** aus.
   2. Geben Sie Ihr Land oder Ihre Region ein und klicken Sie auf **Kreditkarte hinzufügen**, um Ihre Kreditkarteninformationen anzugeben.

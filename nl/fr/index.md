@@ -14,13 +14,13 @@ lastupdated: "2017-04-13"
 {:screen: .screen}
 {:new_window: target="_blank"}
 
-# Types de compte 
+# Types de compte
 {: #pricing}
 
 Vous pouvez exécuter des applis dans {{site.data.keyword.Bluemix}} et essayer des services {{site.data.keyword.Bluemix_notm}} gratuitement. Vous pouvez vous inscrire pour bénéficier d'un essai gratuit de 30 jours offrant des franchises supplémentaires, notamment un support gratuit. Au bout de 30 jours, vous pouvez choisir de procéder à la mise à niveau vers un type de compte différent et ne payer que ce que vous utilisez au-delà des franchises. Bluemix met à disposition une calculatrice des coûts pour que vous puissiez estimer le coût à l'avance, ainsi que la vue Tableau de bord de l'utilisation pour que vous puissiez vérifier le coût réel après avoir construit vos applications.
 {:shortdesc}
 
-## Inscription pour un compte d'essai gratuit 
+## Inscription pour un compte d'essai gratuit
 {: #trial}
 Vous pouvez vous inscrire pour bénéficier d'un essai gratuit de 30 jours avec votre ID {{site.data.keyword.Bluemix_notm}}. Au cours de l'essai, vous pouvez développer des applis et utiliser des services dans {{site.data.keyword.Bluemix_notm}}.
 
@@ -43,7 +43,7 @@ Figure 1. Organigramme du processus de gestion des comptes {{site.data.keyword.B
 Si vous convertissez votre compte au cours de votre essai gratuit, les franchises sont celles normalement proposées par chaque service. Elles
 ne sont plus illimitées comme celles proposées par de nombreux services IBM au cours de l'essai gratuit.
 
-### Application d'un code promotionnel 
+### Application d'un code promotionnel
 {: #promo}
 
 Parfois, le service commercial {{site.data.keyword.Bluemix_notm}} ou d'autres représentants de {{site.data.keyword.Bluemix_notm}}
@@ -62,7 +62,7 @@ Pour utiliser un code promotionnel, sélectionnez **Gérer** &gt; **Facturation 
 **Remarque :** vous pouvez appliquer plusieurs codes promotionnels à votre compte. Chaque code
 promotionnel ne peut être utilisé qu'une fois avant sa date d'expiration.
 
-## Inscription pour un compte facturable 
+## Inscription pour un compte facturable
 {: #pay-accounts}
 
 Lorsque vous souscrivez à un plan de facturation {{site.data.keyword.Bluemix_notm}}, vous pouvez effectuer votre sélection parmi les comptes suivants :
@@ -75,12 +75,11 @@ Avec un compte de type Paiement à la carte, vous êtes facturé en fonction de 
 {{site.data.keyword.Bluemix_notm}}. Avec un compte d'abonnement, vous pouvez bénéficier d'une remise mensuelle contre un engagement financier
 mensuel minimum. L'environnement {{site.data.keyword.Bluemix_notm}} dédié et l'environnement {{site.data.keyword.Bluemix_notm}} local sont facturés selon des contrats annuels.
 
-Vous pouvez convertir votre compte d'essai gratuit en compte facturable à tout moment.
-Toutes les informations du compte sans facturation dans le cadre de votre essai gratuit, ainsi que les solutions {{site.data.keyword.Bluemix_notm}} seront fusionnées directement dans le nouveau compte de facturation.
+Vous pouvez convertir votre compte d'essai gratuit en compte facturable à tout moment. Toutes les informations du compte sans facturation dans le cadre de votre essai gratuit, ainsi que les solutions {{site.data.keyword.Bluemix_notm}} seront fusionnées directement dans le nouveau compte de facturation.
 
-En tant que propriétaire du compte, vous pouvez éditer vos informations, notamment les détails de la carte de crédit sauvegardés, après avoir créé un compte facturable. Sélectionnez **Gérer** &gt; **Facturation et utilisation** &gt; **Facturation** pour afficher ou changer les détails. 
+En tant que propriétaire du compte, vous pouvez éditer vos informations, notamment les détails de la carte de crédit sauvegardés, après avoir créé un compte facturable. Sélectionnez **Gérer** &gt; **Facturation et utilisation** &gt; **Facturation** pour afficher ou changer les détails.
 
-Si vous rencontrez des problèmes liés à {{site.data.keyword.Bluemix_notm}} lorsque vous utilisez un compte Paiement à la carte ou Abonnement, voir [Support client](/docs/support/index.html#getting-customer-support). 
+Si vous rencontrez des problèmes liés à {{site.data.keyword.Bluemix_notm}} lorsque vous utilisez un compte Paiement à la carte ou Abonnement, voir [Support client](/docs/support/index.html#getting-customer-support).
 
 **Remarque :** si vous liez votre compte de facturation {{site.data.keyword.Bluemix_notm}} à un compte SoftLayer, à
 compter du premier jour du mois suivant, vos frais {{site.data.keyword.Bluemix_notm}} et SoftLayer figureront sur votre facture
@@ -97,17 +96,17 @@ Pour mettre à niveau votre compte d'essai vers un compte {{site.data.keyword.Bl
 Une fois la mise à niveau vers un compte Paiement à la carte effectuée, vous pouvez bénéficier de franchises pour les services et les contextes d'exécution. Si vous utilisez plus que la franchise, vous recevrez
 une facture {{site.data.keyword.Bluemix_notm}} mensuelle. Celle-ci est en dollars américains (USD) et détaille le prix des ressources.
 
-Dans de nombreux pays et régions, vous pouvez créer un compte Paiement à la carte depuis la console. 
+Dans de nombreux pays et régions, vous pouvez créer un compte Paiement à la carte depuis la console.
 
-  1. Cliquez sur l'icône **Essai gratuit**, puis cliquez sur **Confirmation de votre compte gratuit** et sélectionnez **Option 1**. 
-  2. Entrez votre pays ou région et cliquez sur **Ajouter une carte de crédit** pour fournir les informations relatives à votre carte de crédit. 
+  1. Cliquez sur l'icône **Essai gratuit**, puis cliquez sur **Confirmation de votre compte gratuit** et sélectionnez **Option 1**.
+  2. Entrez votre pays ou région et cliquez sur **Ajouter une carte de crédit** pour fournir les informations relatives à votre carte de crédit.
 
 Une fois que vous avez indiqué vos informations de facturation et de carte
 de crédit, accepté les dispositions et envoyé votre demande de compte, votre carte de crédit est validée. Un courrier électronique de confirmation des
 informations de compte est également envoyé. Quelques minutes après la réception du courrier électronique de confirmation, vous pouvez revenir dans
-{{site.data.keyword.Bluemix_notm}} pour continuer de construire vos applications. Si {{site.data.keyword.Bluemix_notm}} ne parvient pas à traiter votre demande en ligne pour votre pays ou région, vous pouvez prendre contact avec le service commercial {{site.data.keyword.Bluemix_notm}} via le lien apparaissant sur la page [Support {{site.data.keyword.Bluemix_notm}} ![Icône de lien externe](../icons/launch-glyph.svg)](http://ibm.biz/bluemixsupport){: new_window}. 
+{{site.data.keyword.Bluemix_notm}} pour continuer de construire vos applications. Si {{site.data.keyword.Bluemix_notm}} ne parvient pas à traiter votre demande en ligne pour votre pays ou région, vous pouvez prendre contact avec le service commercial {{site.data.keyword.Bluemix_notm}} via le lien apparaissant sur la page [Support {{site.data.keyword.Bluemix_notm}} ![Icône de lien externe](../icons/launch-glyph.svg)](http://ibm.biz/bluemixsupport){: new_window}.
 
-Vous pouvez convertir votre compte Paiement à la carte en compte d'abonnement à tout moment. Prenez contact avec le service commercial {{site.data.keyword.Bluemix_notm}} via le lien apparaissant sur la page [Support {{site.data.keyword.Bluemix_notm}} ![Icône de lien externe](../icons/launch-glyph.svg)](http://ibm.biz/bluemixsupport){: new_window}. 
+Vous pouvez convertir votre compte Paiement à la carte en compte d'abonnement à tout moment. Prenez contact avec le service commercial {{site.data.keyword.Bluemix_notm}} via le lien apparaissant sur la page [Support {{site.data.keyword.Bluemix_notm}} ![Icône de lien externe](../icons/launch-glyph.svg)](http://ibm.biz/bluemixsupport){: new_window}.
 
 ### Compte d'abonnement
 {: #subscription}
@@ -115,7 +114,6 @@ Vous pouvez convertir votre compte Paiement à la carte en compte d'abonnement �
 Avec un compte d'abonnement, vous vous engagez à dépenser une somme minimale par mois et recevez une remise sur abonnement qui est appliquée à ce montant minimal. Vous payez également toute utilisation dépassant le montant minimal.
 
 Pour créer un compte d'abonnement et pour plus d'informations sur les tarifs des abonnements et les remises dont vous pouvez bénéficier, vous devez contacter le service commercial {{site.data.keyword.Bluemix_notm}} via le lien apparaissant sur la page [Support {{site.data.keyword.Bluemix_notm}} ![Icône de lien externe](../icons/launch-glyph.svg)](http://ibm.biz/bluemixsupport){: new_window}.
-
 
 ### Compte {{site.data.keyword.Bluemix_notm}} dédié
 {: #dedicated}
@@ -131,7 +129,7 @@ publics
 * Le support {{site.data.keyword.Bluemix_notm}} standard
 
 Vous pouvez aussi
-commander des éléments facultatifs tels que SoftLayer DirectLink ou des options de support premium. Prenez contact avec le [service commercial {{site.data.keyword.Bluemix_notm}} ![Icône de lien externe](../icons/launch-glyph.svg)](http://ibm.biz/bluemixsupport){: new_window} pour plus d'informations. 
+commander des éléments facultatifs tels que SoftLayer DirectLink ou des options de support premium. Prenez contact avec le [service commercial {{site.data.keyword.Bluemix_notm}} ![Icône de lien externe](../icons/launch-glyph.svg)](http://ibm.biz/bluemixsupport){: new_window} pour plus d'informations.
 
 Avec
 l'environnement {{site.data.keyword.Bluemix_notm}} dédié, vous devez vous engager pour un an au moins. Le prix que vous payez
@@ -139,7 +137,7 @@ chaque mois au cours de cet engagement dépend des services dédiés que vous ch
 les
 services publics. Le prix de l'utilisation des services dans l'environnement {{site.data.keyword.Bluemix_notm}}
 public est calculé selon votre contrat de compte d'abonnement. Vous recevez une facture pour tous les services que vous utilisez au-delà de la franchise
-définie dans le contrat d'abonnement. Prenez contact avec votre représentant de compte désigné par IBM ou avec le [service commercial {{site.data.keyword.Bluemix_notm}} ![Icône de lien externe](../icons/launch-glyph.svg)](http://ibm.biz/bluemixsupport){: new_window} pour des informations sur votre contrat. 
+définie dans le contrat d'abonnement. Prenez contact avec votre représentant de compte désigné par IBM ou avec le [service commercial {{site.data.keyword.Bluemix_notm}} ![Icône de lien externe](../icons/launch-glyph.svg)](http://ibm.biz/bluemixsupport){: new_window} pour des informations sur votre contrat.
 
 
 ### Compte {{site.data.keyword.Bluemix_notm}} local
@@ -160,4 +158,4 @@ l'environnement {{site.data.keyword.Bluemix_notm}} local, vous devez vous engage
 que vous payez chaque mois au cours de cet engagement dépend des services locaux que vous choisissez, et inclut un compte d'abonnement qui vous permet
 d'accéder à tous les services publics. Le prix de l'utilisation des services dans l'environnement {{site.data.keyword.Bluemix_notm}}
 public est calculé selon votre contrat de compte d'abonnement. Vous recevez une facture pour tous les services que vous utilisez au-delà de la franchise
-définie dans le contrat d'abonnement. Prenez contact avec votre représentant de compte désigné par IBM ou avec le [service commercial {{site.data.keyword.Bluemix_notm}} ![Icône de lien externe](../icons/launch-glyph.svg)](http://ibm.biz/bluemixsupport){: new_window} pour des informations sur votre contrat. 
+définie dans le contrat d'abonnement. Prenez contact avec votre représentant de compte désigné par IBM ou avec le [service commercial {{site.data.keyword.Bluemix_notm}} ![Icône de lien externe](../icons/launch-glyph.svg)](http://ibm.biz/bluemixsupport){: new_window} pour des informations sur votre contrat.
