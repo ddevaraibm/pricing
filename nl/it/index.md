@@ -62,7 +62,7 @@ Per utilizzare un codice promozionale, fai clic su **Gestisci** &gt; **Fatturazi
 
 **Nota:** puoi applicare più codici promozionali al tuo account. Ogni codice promozionale può essere riscattato solo una volta prima della sua data di scadenza.
 
-## Registrazione a un account fatturabile
+## Registrazione per un account fatturabile
 {: #pay-accounts}
 
 Quando ti registri per un piano fatturabile {{site.data.keyword.Bluemix_notm}}, puoi scegliere uno dei seguenti account:

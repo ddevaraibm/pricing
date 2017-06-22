@@ -32,7 +32,7 @@ Puoi effettuare un pagamento unico in qualsiasi momento. Il pagamento può esser
 3. Nel campo **Importo del pagamento**, immetti l'importo che vuoi pagare.
 4. Seleziona il metodo di pagamento che preferisci:
  * Pagamento con carta di credito. Immetti i dettagli della tua carta e l'indirizzo di fatturazione della carta. Quindi, fai clic su **Effettua pagamento con carta di credito**. 
- * Pagamento con PayPal. Immetti i tuoi dettagli quando viene richiesto per completare il pagamento.  
+ * Pagamento con PayPal. Immetti i tuoi dettagli quando viene richiesto per completare il pagamento. 
 
 Risolvi eventuali problemi segnalati con il pagamento. Il saldo dell'account viene aggiornato una volta che il pagamento è stato accettato. Puoi contattare il team
 di supporto facendo clic su **Supporto** &gt; **Aggiungi ticket**.

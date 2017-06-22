@@ -5,7 +5,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-04-12"
+lastupdated: "2017-05-31"
 
 ---
 
@@ -50,8 +50,56 @@ Il tuo ciclo di utilizzo di {{site.data.keyword.Bluemix_notm}} si basa sul mese 
 
 Quando gli account sono collegati, l'utilizzo di {{site.data.keyword.Bluemix_notm}} continua a essere misurato per il ciclo del mese corrente e viene fatturato con una fattura {{site.data.keyword.Bluemix_notm}}. Dal primo giorno del mese successivo, gli addebiti {{site.data.keyword.Bluemix_notm}} e SoftLayer verranno combinati nella tua fattura {{site.data.keyword.Bluemix_notm}}.
 
-Ad esempio, se hai collegato gli account il 16 aprile 2017, riceverai una fattura Bluemix per l'utilizzo nel mese di aprile. A seconda di quando hai collegato i tuoi account, potresti ricevere una fattura separata per l'utilizzo di SoftLayer. L'utilizzo di maggio per SoftLayer e {{site.data.keyword.Bluemix_notm}} verrà fatturato tramite l'account {{site.data.keyword.Bluemix_notm}}.
+Ad esempio, se hai collegato gli account il 16 aprile 2017, riceverai una fattura Bluemix per l'utilizzo nel mese di aprile. A seconda di quando hai collegato i tuoi account, potresti ricevere una fattura separata per l'utilizzo di SoftLayer. Il tuo utilizzo nel mese di maggio per SoftLayer e {{site.data.keyword.Bluemix_notm}} verrà fatturato tramite il tuo account {{site.data.keyword.Bluemix_notm}}.
 
-![Collegamento del riepilogo degli account Bluemix e SoftLayer](/docs/pricing/BluemixSoftLayerBill.svg)
+![Collegamento del riepilogo degli account Bluemix e SoftLayer](BluemixSoftLayerBill.svg)
 
 Una volta collegate le fatture, la tua fattura {{site.data.keyword.Bluemix_notm}} elencherà i diversi addebiti per ogni risorsa che hai utilizzato.
+
+## Servizi Bluemix basati su API
+{: #api_based_bluemix_services}
+
+Il seguente elenco contiene i servizi che puoi configurare per l'esecuzione con il tuo codice applicativo.
+{:shortdesc}
+
+Non tutti i piani per questi servizi sono disponibili per l'utilizzo con gli account {{site.data.keyword.Bluemix_notm}} e SoftLayer collegati. Solo i piani abilitati per gli account Pagamento a consumo possono essere utilizzati con gli account collegati. Tuttavia, se hai un account {{site.data.keyword.Bluemix_notm}} che viene fatturato separatamente, puoi utilizzare qualsiasi piano per tutti questi servizi.
+
+* {{site.data.keyword.alchemyapishort}}
+* {{site.data.keyword.alertnotificationshort}}
+* {{site.data.keyword.sparks}}
+* {{site.data.keyword.appseccloudshort}}
+* {{site.data.keyword.blockchain}}
+* {{site.data.keyword.cloudant}}
+* {{site.data.keyword.conceptinsightsshort}}
+* {{site.data.keyword.iotmapinsights_short}}
+* {{site.data.keyword.dashdbshort}}
+* {{site.data.keyword.dialogshort}}
+* {{site.data.keyword.documentconversionshort}}
+* {{site.data.keyword.twittershort}}
+* {{site.data.keyword.weather_short}}
+* {{site.data.keyword.iotdriverinsights_short}}
+* {{site.data.keyword.geospatialshort_Geospatial}}
+* {{site.data.keyword.graphshort}}
+* {{site.data.keyword.iotelectronics}}
+* {{site.data.keyword.languagetranslationshort}}
+* {{site.data.keyword.messagehub}}
+* {{site.data.keyword.mqa}}
+* {{site.data.keyword.mobileappbuilder_short}}
+* {{site.data.keyword.mql}}
+* {{site.data.keyword.nlclassifiershort}}
+* {{site.data.keyword.objectstorageshort}}
+* {{site.data.keyword.personalityinsightsshort}}
+* {{site.data.keyword.presenceinsightsshort}}
+* {{site.data.keyword.relationshipextractionshort}}
+* {{site.data.keyword.retrieveandrankshort}}
+* {{site.data.keyword.servicediscoveryshort}}
+* {{site.data.keyword.speechtotextshort}}
+* {{site.data.keyword.sqldb}}
+* {{site.data.keyword.streaminganalyticsshort}}
+* {{site.data.keyword.texttospeechshort}}
+* {{site.data.keyword.toneanalyzershort}}
+* {{site.data.keyword.tradeoffanalyticsshort}}
+* {{site.data.keyword.visualinsightsshort}}
+* {{site.data.keyword.visualrecognitionshort}}
+* {{site.data.keyword.workflow}}
+* {{site.data.keyword.workloadscheduler}}

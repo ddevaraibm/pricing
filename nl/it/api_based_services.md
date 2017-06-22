@@ -16,7 +16,7 @@ lastupdated: "2017-04-12"
 
 # Servizi Bluemix basati su API
 {: #api_based_bluemix_services}
-Non tutti i servizi {{site.data.keyword.Bluemix_notm}} possono essere utilizzati con SoftLayer. I seguenti servizi possono essere impostati in modo da essere eseguiti con il codice della tua applicazione:
+Non tutti i servizi {{site.data.keyword.Bluemix_notm}} possono essere utilizzati con SoftLayer. I seguenti servizi possono essere impostati in modo da essere eseguiti con il tuo codice applicativo:
 * {{site.data.keyword.alchemyapishort}}
 * {{site.data.keyword.alertnotificationshort}}
 * {{site.data.keyword.sparks}}
