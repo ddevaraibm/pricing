@@ -15,7 +15,7 @@ lastupdated: "2017-06-01"
 # Signing up for a free account
 {: #pricing}
 
-You can try {{site.data.keyword.Bluemix}} for free by signing up for a Standard account or a 30-day trial account. Standard accounts are available to select users in the United Kingdom region only. Trial accounts are available in all regions. 
+You can try {{site.data.keyword.Bluemix}} for free by signing up for a Standard account or a 30-day trial account. Standard accounts are available to select users in the United Kingdom and the US South regions only. Trial accounts are available in all regions. 
 {:shortdesc}
 
 ## Standard account
