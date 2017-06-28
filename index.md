@@ -21,7 +21,7 @@ You can start building on IBM Bluemix for free. When you are ready to grow, you 
 ## {{site.data.keyword.Bluemix_notm}} Standard account
 {: #trystandard}
 
-Standard accounts are available to select users in the United Kingdom region only. Sign up for a free Standard account to build apps and explore services with free Lite plans in {{site.data.keyword.Bluemix}}. Your Standard account doesn't expire and your credit card isn't required. You can create a Standard account by asking a friend with a Standard account for an invite or by reaching out to our sales team at sales@bluemix.net.  
+Standard accounts are available to select for users in the United Kingdom region only. Sign up for a free Standard account to build apps and explore services with free Lite plans in {{site.data.keyword.Bluemix}}. Your Standard account doesn't expire and your credit card isn't required. You can create a Standard account by asking a friend with a Standard account for an invite or by reaching out to our sales team at sales@bluemix.net.  
 {:shortdesc}
 
 When you sign up for a Standard account, you can select which geographical region you want to work in. After you create an org in a region, it can't be changed. 
