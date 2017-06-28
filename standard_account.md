@@ -21,7 +21,7 @@ lastupdated: "2017-06-01"
 The {{site.data.keyword.Bluemix}} Standard Account Limited Release introduces a new free account, which offers a new way to work in the {{site.data.keyword.Bluemix_notm}} Public Cloud. The Standard account never expires, unlike the 30-day {{site.data.keyword.Bluemix_notm}} trial. You can continue to work on your {{site.data.keyword.Bluemix_notm}} applications without any concerns about time restrictions. 
 {:shortdesc}
 
-Users in the United Kingdom and United States are eligible for the Standard account. If you are not in either region, you can still create a Standard account by asking a friend for an invite or reaching out to our sales team at sales@bluemix.net. Once you have a Standard account, you can invite friends and colleagues to participate.    
+Users in the United Kingdom and US South regions are eligible for the Standard account. If you are not in either region, you can still create a Standard account by asking a friend for an invite or reaching out to our sales team at sales@bluemix.net. Once you have a Standard account, you can invite friends and colleagues to participate.    
 
 ## Introducing the {{site.data.keyword.Bluemix_notm}} Standard account
 {: #standardaccount}
