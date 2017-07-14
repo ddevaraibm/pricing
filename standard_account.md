@@ -77,6 +77,7 @@ During the Standard Account Limited Release, the following {{site.data.keyword.B
 <li>{{site.data.keyword.conversationfull}}</li>
 <li>{{site.data.keyword.iot_full}}</li>
 <li>{{site.data.keyword.languagetranslatorfull}}</li>
+<li>{{site.data.keyword.naturallanguageunderstandingfull}}</li>
 <li>{{site.data.keyword.personalityinsightsfull}}</li>
 <li>{{site.data.keyword.toneanalyzerfull}}</li>
 </ul>
